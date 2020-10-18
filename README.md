@@ -1,6 +1,7 @@
-### Bio
+## Bio
 
-Hello World! 
+Hello World!
+ 
 My name is Eduardo and I'm a developer 💻. I've been working with [Python](https://www.python.org/) 🐍 for the last 8 years, most of the time working as a backend developer with [Django](https://www.djangoproject.com/) but I also have some experience with [Flask](https://flask.palletsprojects.com/en/1.1.x/). I have some experience with Linux 🐧, Docker 🐳, Redis 🟥, RabbitMQ 🐰, and Celery 🌿.
 
 In my freetime, I develop many things, one is a telegram bot 🤖: https://github.com/eduzen/bot. You can talk to him following this link: https://t.me/eduzen_bot.
