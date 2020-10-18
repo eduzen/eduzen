@@ -8,11 +8,15 @@ In my freetime, I develop many things, one is a telegram bot 🤖: https://githu
 
 Besides computers, I like good music, books, philosophy and lately mechanical keyboards (right now using a Leopold 75 %)!
 
+<p align="center">
 <img src="https://github.com/eduzen/eduzen/blob/main/.github/leopold.jpg" alt="Leopold" width="25%">
+</p>
 
 I have a bachelor's degree in philosophy from the University of Buenos Aires. Currently living in ~~Buenos Aires~~ ~~München~~ Amsterdam!
 
-<img src="https://github.com/eduzen/eduzen/blob/main/.github/amsterdam.jpg" alt="Amsterdam" width="25%">
+<p align="center">
+<img src="https://github.com/eduzen/eduzen/blob/main/.github/amsterdam.jpg" alt="Amsterdam" width="75%">
+</p>
 
 You can visit my blog: [eduzen.ar](https://eduzen.ar)
 
