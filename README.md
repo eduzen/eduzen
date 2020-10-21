@@ -11,7 +11,7 @@ Besides computers, I like good music, books, philosophy and lately mechanical ke
 <p align="center">
  <img src="https://github.com/eduzen/eduzen/blob/main/.github/spinetta.jpg" alt="Spinetta" width="25%">
  <img src="https://github.com/eduzen/eduzen/blob/main/.github/leopold.jpg" alt="Leopold" width="25%">
- <img src="https://github.com/eduzen/eduzen/blob/main/.github/nietzsche.jpg" alt="Nietzsche" width="25%">
+ <img src="https://github.com/eduzen/eduzen/blob/main/.github/nietzsche.jpg" alt="Nietzsche" width="20%">
 </p>
 
 I have a bachelor's degree in philosophy from the University of Buenos Aires. Currently living in ~~Buenos Aires~~ ~~München~~ Amsterdam!
