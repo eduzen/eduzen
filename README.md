@@ -9,7 +9,9 @@ In my freetime, I develop many things, one is a telegram bot 🤖: https://githu
 Besides computers, I like good music, books, philosophy and lately mechanical keyboards (right now using a Leopold 75 %)!
 
 <p align="center">
-<img src="https://github.com/eduzen/eduzen/blob/main/.github/leopold.jpg" alt="Leopold" width="25%">
+ <img src="https://github.com/eduzen/eduzen/blob/main/.github/spinetta.jpg" alt="Spinetta" width="25%">
+ <img src="https://github.com/eduzen/eduzen/blob/main/.github/leopold.jpg" alt="Leopold" width="25%">
+ <img src="https://github.com/eduzen/eduzen/blob/main/.github/nietzsche.jpg" alt="Nietzsche" width="25%">
 </p>
 
 I have a bachelor's degree in philosophy from the University of Buenos Aires. Currently living in ~~Buenos Aires~~ ~~München~~ Amsterdam!
@@ -18,5 +20,7 @@ I have a bachelor's degree in philosophy from the University of Buenos Aires. Cu
 <img src="https://github.com/eduzen/eduzen/blob/main/.github/amsterdam.jpg" alt="Amsterdam" width="75%">
 </p>
 
-You can visit my blog: [eduzen.ar](https://eduzen.ar)
+You can visit my blog: [eduzen.ar](https://eduzen.ar) 
+
+If you want to learn python drop me an ✉️ email or dm in 🐦 [twitter](https://twitter.com/_eduzen_).
 
